@@ -1,0 +1,52 @@
+{
+    "appetizers": [
+        {
+            "name": "Broccoli Cheese Soup",
+            "ingredients": "Broccoli, melted cheese sauce"
+        },
+        {
+            "name": "Vegetable Dipping Platter",
+            "ingredients": "Carrot, celery, broccoli, cauliflower, assorted bell peppers, ranch dipping sauce"
+        }
+    ],
+    "coldSandwiches": [
+        {
+            "name": "Turkey and White Cheddar",
+            "ingredients": "Turkey, white cheddar cheese, fresh tamoto slices, fresh lettuce"
+        },
+        {
+            "name": "Club Sandwich",
+            "ingredients": "Cheddar cheese, sliced ham, tomato, lettuce, mayonnaise"
+        }
+    ],
+    "hotSandwiches": [
+        {
+            "name": "Grilled Cheese",
+            "ingredients": "American cheese, cheddar cheese"
+        },
+        {
+            "name": "BLT",
+            "ingredients": "Bacon, lettuce, tomato, chipotle mayonnaise sauce"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Apple Tart",
+            "ingredients": "Fresh apple slices, cinnamon, basic crust"
+        },
+        {
+            "name": "Brownie",
+            "ingredients": "Butter, sugar, eggs, vanilla extract, cocoa powder, flour, salt, baking powder"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Water",
+            "ingredients": "water"
+        },
+        {
+            "name": "Dr. Pepper",
+            "ingredients": "Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Preservative (Potassium Sorbate), Flavourings Including Caffeine, Sweeteners (Aspartame, Acesulfame K). Contains a Source of Phenylalanine"
+        }
+    ]
+}
